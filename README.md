@@ -140,6 +140,17 @@
 
 [gSOAP wikipedia page](https://en.wikipedia.org/wiki/GSOAP)
 
-[gSOAP report on OpenHub](https://www.openhub.net/p/gsoap)
+[gSOAP details on OpenHub](https://www.openhub.net/p/gsoap)
 
 [Original gSOAP web pages](https://www.cs.fsu.edu/~engelen/soap.html)
+
+[Homebrew gSOAP](https://formulae.brew.sh/formula/gsoap)
+
+[Debian gSOAP package](https://packages.debian.org/unstable/devel/gsoap)
+
+[Linux RPM resources for gSOAP](https://rpmfind.net/linux/rpm2html/search.php?query=gsoap)
+
+[GitHub gsoap-onvif project](https://github.com/xris-hu/gsoap-onvif)
+
+[GitHub libONVIF project](https://github.com/Tereius/libONVIF)
+
