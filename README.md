@@ -2,9 +2,9 @@
 
 ### Download
 
-[Commercial gSOAP download](https://www.genivia.com/downloads.html) - commercial license required see [licensing options](https://www.genivia.com/products.html#gsoap)
+[Commercial gSOAP version download](https://www.genivia.com/downloads.html) - commercial license required see [licensing options](https://www.genivia.com/products.html#gsoap)
 
-[Open source gSOAP download](https://sourceforge.net/projects/gsoap2/files/) - GPLv2 [GNU Public License 2.0 and FAQ](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.en.html)
+[Open source gSOAP version download](https://sourceforge.net/projects/gsoap2/files/) - GPLv2 [GNU Public License 2.0 and FAQ](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.en.html)
 
 ### Changelog
 
@@ -12,9 +12,9 @@
 
 ### Support
 
-[Technical support services](https://www.genivia.com/inquire/support.php) - commercial version only
+[Technical support services](https://www.genivia.com/inquire/support.php) - for commercial gSOAP users, commercial license required
 
-[Bug tracker](http://sourceforge.net/p/gsoap2/bugs/) - open source version only
+[Bug and issues tracker](http://sourceforge.net/p/gsoap2/bugs/) - for open source gSOAP users
 
 [StackOverflow](http://stackoverflow.com/questions/tagged/gsoap) - #gsoap tagged Q&A
 
