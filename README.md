@@ -14,11 +14,11 @@
 
 ### Support
 
-[Technical support services - commercial version only](https://www.genivia.com/inquire/support.php)
+[Technical support services](https://www.genivia.com/inquire/support.php) - commercial version only
 
-[Bug tracker - open source version only](http://sourceforge.net/p/gsoap2/bugs/)
+[Bug tracker](http://sourceforge.net/p/gsoap2/bugs/) - open source version only
 
-[StackOverflow #gsoap](http://stackoverflow.com/questions/tagged/gsoap)
+[StackOverflow #gsoap tagged Q&A](http://stackoverflow.com/questions/tagged/gsoap)
 
 ### Tutorials
 
@@ -74,7 +74,7 @@
 
 [XML DOM and the domcpp tool](https://www.genivia.com/doc/dom/html/index.html)
 
-[Fuzz testing XML services and clients with test messenger](https://www.genivia.com/doc/testmsgr/html/index.html)
+[Fuzz testing XML services and clients with the Test Messenger](https://www.genivia.com/doc/testmsgr/html/index.html)
 
 ### JSON and REST
 
@@ -107,3 +107,33 @@
 [HTTP digest authentication plugin](https://www.genivia.com/doc/httpda/html/httpda.html)
 
 [HTTP server session management plugin](https://www.genivia.com/doc/sessions/html/index.html)
+
+### Technical articles
+
+[Schema Slicing Methods to Reduce Development Costs of WSDL-Based Web Services](https://www.genivia.com/slicing.html) - published in the IEEE International Conference on Web Services 2018
+
+[How to Use Amazon Simple Storage Service (S3) in C++ with gSOAP](http://www.codeproject.com/Articles/1108296/How-to-Use-Amazon-Simple-Storage-Service-S-in-Cplu)
+
+[How to Use Exchange Web Service in C++ With gSOAP](https://www.codeproject.com/Articles/1119224/How-to-Use-Exchange-Web-Service-in-Cplusplus-With)
+
+[A Framework for Service-Oriented Computing with C and C++ Web Service Components](https://www.genivia.com/article8.html) - published in ACM Transactions on Internet Technology, Vol.8, No.3, 2008
+
+[An Overview and Evaluation of Web Services Security Performance Optimizations](https://www.genivia.com/article7.html) - published in the proceedings of the IEEE International Conference on Web Services 2008
+
+[High-Performance XML Parsing and Validation with Permutation Phrase Grammar Parsers](https://www.genivia.com/article6.html) - published in the proceedings of the IEEE International Conference on Web Services 2008
+
+[A Table-Driven Streaming XML Parsing Methodology for High-Performance Web Services](https://www.genivia.com/article5.html) - published in the proceedings of the IEEE International Conference on Web Services 2006
+
+[Exploring Remote Object Coherence in XML Web Services](https://www.genivia.com/article4.html) - published in the proceedings of the IEEE International Conference on Web Services 2006
+
+[Constructing Finite State Automata for High-Performance XML Web Services](https://www.genivia.com/article3.html) - published in the proceedings of the IEEE International Conference on Web Services 2004
+
+[Pushing the SOAP Envelope With Web Services for Scientific Computing](https://www.genivia.com/article2.html) - published in the proceedings of the IEEE International Conference on Web Services 2003
+
+[The gSOAP Toolkit for Web Services and Peer-To-Peer Computing Networks](https://www.genivia.com/article1.html) - published in the proceedings of IEEE Cluster Computing and the Grid 2002
+
+[Are Web Services Scale Free?](https://www.genivia.com/powerlaw.html)
+
+### Miscellaneous
+
+[Original gSOAP web pages](https://www.cs.fsu.edu/~engelen/soap.html)
