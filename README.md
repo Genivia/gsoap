@@ -138,4 +138,8 @@
 
 ### Miscellaneous
 
+[gSOAP wikipedia page](https://en.wikipedia.org/wiki/GSOAP)
+
+[gSOAP report on OpenHub](https://www.openhub.net/p/gsoap)
+
 [Original gSOAP web pages](https://www.cs.fsu.edu/~engelen/soap.html)
