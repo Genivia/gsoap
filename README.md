@@ -1,20 +1,18 @@
-A collection of resources for the gSOAP toolkit
-
-## Download
+### Download
 
 [Commercial gSOAP](https://www.genivia.com/downloads.html) - commercial license required, [licensing options](https://www.genivia.com/products.html#gsoap)
 
 [Open source gSOAP](https://sourceforge.net/projects/gsoap2/files/) - GPLv2 [GNU Public License 2.0 and FAQ](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.en.html)
 
-## Changelog
+### Changelog
 
 [Latest changes](https://www.genivia.com/changelog.html#latest)
 
-## FAQ
+### FAQ
 
 [Frequently asked questions](https://www.genivia.com/resources.html)
 
-## Support
+### Support
 
 [Technical support services - commercial version only](https://www.genivia.com/inquire/support.php)
 
@@ -22,13 +20,13 @@ A collection of resources for the gSOAP toolkit
 
 [StackOverflow #gsoap](http://stackoverflow.com/questions/tagged/gsoap)
 
-## Tutorials
+### Tutorials
 
 [Getting started](https://www.genivia.com/dev.html)
 
 [Tutorials](https://www.genivia.com/tutorials.html)
 
-## Examples
+### Examples
 
 [Simple calc client and server in C](https://www.genivia.com/examples/calc/index.html)
 
@@ -60,7 +58,7 @@ A collection of resources for the gSOAP toolkit
 
 [SOAP currentime client and server one liner](https://www.genivia.com/examples/time/index.html)
 
-## Documentation
+### Documentation
 
 [User guide](https://www.genivia.com/doc/guide/html/index.html)
 
@@ -70,7 +68,7 @@ A collection of resources for the gSOAP toolkit
 
 [Context API - functions to set the soap engine state](https://www.genivia.com/doc/guide/html/group__group__context.html)
 
-## XML/SOAP and XML REST
+### XML/SOAP and XML REST
 
 [XML data bindings](https://www.genivia.com/doc/databinding/html/index.html)
 
@@ -78,17 +76,17 @@ A collection of resources for the gSOAP toolkit
 
 [Fuzz testing XML services and clients with test messenger](https://www.genivia.com/doc/testmsgr/html/index.html)
 
-## JSON and REST
+### JSON and REST
 
 [JSON REST APIs and the jsoncpp tool](https://www.genivia.com/doc/xml-rpc-json/html/index.html)
 
-## Web server integration
+### Web server integration
 
 [Apache](https://www.genivia.com/doc/apache/html/index.html)
 
 [IIS](https://www.genivia.com/doc/isapi/html/index.html)
 
-## Security
+### Security
 
 [Advisories](https://www.genivia.com/advisory.html)
 
