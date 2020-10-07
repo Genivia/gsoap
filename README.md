@@ -1,3 +1,5 @@
+<a style="vertical-align:top;" target="_blank" href="https://sourceforge.net/projects/gsoap2/files/latest/download" rel="nofollow"><img alt="Download gSOAP" src="https://img.shields.io/sourceforge/dm/gsoap2.svg"></a> <a style="vertical-align:top;" target="_blank" href="https://sourceforge.net/projects/gsoap2" rel="nofollow"><img alt="rating" src="https://img.shields.io/badge/rating-★★★★★-brightgreen.svg"></a> <a style="vertical-align:top;" href="#gsoap" rel="nofollow"><img alt="license" src="https://img.shields.io/badge/license-commercial%20or%20GPLv2-blue.svg"></a>
+
 ### Download
 
 [Commercial gSOAP download](https://www.genivia.com/downloads.html) - commercial license required see [licensing options](https://www.genivia.com/products.html#gsoap)
