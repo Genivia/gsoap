@@ -1,16 +1,12 @@
 ### Download
 
-[Commercial gSOAP](https://www.genivia.com/downloads.html) - commercial license required see[licensing options](https://www.genivia.com/products.html#gsoap)
+[Commercial gSOAP download](https://www.genivia.com/downloads.html) - commercial license required see [licensing options](https://www.genivia.com/products.html#gsoap)
 
-[Open source gSOAP](https://sourceforge.net/projects/gsoap2/files/) - GPLv2 [GNU Public License 2.0 and FAQ](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.en.html)
+[Open source gSOAP download](https://sourceforge.net/projects/gsoap2/files/) - GPLv2 [GNU Public License 2.0 and FAQ](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.en.html)
 
 ### Changelog
 
 [Latest changes](https://www.genivia.com/changelog.html#latest)
-
-### FAQ
-
-[Frequently asked questions](https://www.genivia.com/resources.html)
 
 ### Support
 
@@ -58,6 +54,10 @@
 
 [SOAP currentime client and server one liner](https://www.genivia.com/examples/time/index.html)
 
+### FAQ
+
+[Frequently asked questions](https://www.genivia.com/resources.html)
+
 ### Documentation
 
 [User guide](https://www.genivia.com/doc/guide/html/index.html)
@@ -100,7 +100,7 @@
 
 [WS-ReliableMessaging plugin](https://www.genivia.com/doc/wsrm/html/wsrm_0.html)
 
-[plugin for WS-RM inbound message queueing and message replay](https://www.genivia.com/doc/wsrm/html/mq_0.html)
+[Plugin for WS-RM inbound message queueing and message replay](https://www.genivia.com/doc/wsrm/html/mq_0.html)
 
 [WS-Discovery](https://www.genivia.com/doc/wsdd/html/wsdd_0.html)
 
