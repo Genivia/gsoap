@@ -1,6 +1,6 @@
 ### Download
 
-[Commercial gSOAP](https://www.genivia.com/downloads.html) - commercial license required, [licensing options](https://www.genivia.com/products.html#gsoap)
+[Commercial gSOAP](https://www.genivia.com/downloads.html) - commercial license required see[licensing options](https://www.genivia.com/products.html#gsoap)
 
 [Open source gSOAP](https://sourceforge.net/projects/gsoap2/files/) - GPLv2 [GNU Public License 2.0 and FAQ](https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.en.html)
 
@@ -18,7 +18,7 @@
 
 [Bug tracker](http://sourceforge.net/p/gsoap2/bugs/) - open source version only
 
-[StackOverflow #gsoap tagged Q&A](http://stackoverflow.com/questions/tagged/gsoap)
+[StackOverflow](http://stackoverflow.com/questions/tagged/gsoap) - #gsoap tagged Q&A
 
 ### Tutorials
 
@@ -62,11 +62,11 @@
 
 [User guide](https://www.genivia.com/doc/guide/html/index.html)
 
-[List of modules - flags, debugging, callbacks, and more](https://www.genivia.com/doc/guide/html/modules.html)
+[List of modules](https://www.genivia.com/doc/guide/html/modules.html) - flags, debugging, callbacks, and more
 
-[Context with the engine state - struct soap](https://www.genivia.com/doc/guide/html/structsoap.html)
+[Context with the engine state](https://www.genivia.com/doc/guide/html/structsoap.html) - struct soap members
 
-[Context API - functions to set the soap engine state](https://www.genivia.com/doc/guide/html/group__group__context.html)
+[Context API](https://www.genivia.com/doc/guide/html/group__group__context.html) - functions to set the soap engine state
 
 ### XML/SOAP and XML REST
 
