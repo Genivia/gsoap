@@ -102,7 +102,7 @@
 
 [Plugin for WS-RM inbound message queueing and message replay](https://www.genivia.com/doc/wsrm/html/mq_0.html)
 
-[WS-Discovery](https://www.genivia.com/doc/wsdd/html/wsdd_0.html)
+[WS-Discovery plugin](https://www.genivia.com/doc/wsdd/html/wsdd_0.html)
 
 [HTTP digest authentication plugin](https://www.genivia.com/doc/httpda/html/httpda.html)
 
