@@ -62,7 +62,7 @@
 
 ### Documentation
 
-[User guide](https://www.genivia.com/doc/guide/html/index.html)
+[gSOAP user guide](https://www.genivia.com/doc/guide/html/index.html) - the full documentation
 
 [List of modules](https://www.genivia.com/doc/guide/html/modules.html) - flags, debugging, callbacks, and more
 
