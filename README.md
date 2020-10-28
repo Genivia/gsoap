@@ -152,6 +152,8 @@
 
 [Linux RPM resources for gSOAP](https://rpmfind.net/linux/rpm2html/search.php?query=gsoap)
 
+[GitHub ONVIF WSDD project](https://github.com/KoynovStas/wsdd)
+
 [GitHub gsoap-onvif project](https://github.com/xris-hu/gsoap-onvif)
 
 [GitHub libONVIF project](https://github.com/Tereius/libONVIF)
