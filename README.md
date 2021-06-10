@@ -158,3 +158,4 @@
 
 [GitHub libONVIF project](https://github.com/Tereius/libONVIF)
 
+[How to use gSOAP with Qt for Web Service Client](https://wiki.qt.io/How_to_use_gSOAP_with_Qt_for_Web_Service_Client)
