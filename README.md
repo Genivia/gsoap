@@ -154,6 +154,8 @@
 
 [GitHub ONVIF WSDD project is a Linux daemon for ONVIF WS-Discovery](https://github.com/KoynovStas/wsdd)
 
+[Web Services for Devices WS4D-gsoap based on DPWS](http://ws4d.org/category/stack-c-ws4d-gsoap) with [source code](https://gitlab.amd.e-technik.uni-rostock.de/ws4d/ws4d-gsoap)
+
 [GitHub gsoap-onvif project](https://github.com/xris-hu/gsoap-onvif)
 
 [GitHub libONVIF project](https://github.com/Tereius/libONVIF)
